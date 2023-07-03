@@ -1,16 +1,17 @@
-### Hi there 👋
+Bem vindo ao meu perfil
 
-<!--
-**erikbuenocor/erikbuenocor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Erik 
 
-Here are some ideas to get you started:
+Tenho 15 anos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na alura 
+
+Estudo no colegio Caetano Munhoz Da Rocha
+
+Se quiser entrar em contato comigo 📧
+
+erik.bueno.cordeiro@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/3fTBWkv9OskAAAAC/thumbs-up-jim-carrey.gif)
